@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! My name is **Gabriel Ventrice Capanema**, and i am currently a **Nodejs Backend Developer**.
 
-My latest project is [Get a Pro](https://github.com/GabrielVentrice/getapro-backend-nestjs), a API RESTful for my personal project. This project utilizes Nestjs, Prisma and Swagger and I am constantly working to improve it.
-
 My goal is to build and share ideas with the world, and I am always looking for new opportunities to learn and grow. I welcome any feedback or suggestions for my projects.
 
 Thank you for visiting my profile, and I hope you find my projects interesting and useful. Don't hesitate to reach out if you have any questions or if you are interested in collaborating on a project.
